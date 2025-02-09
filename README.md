@@ -1,7 +1,7 @@
 # Diabetes_Prediction
 
 ## Table of Content
-Description
+- Description
 Importing Libraries
 Reading CSV File
 Data Cleaning	
